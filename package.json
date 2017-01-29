@@ -27,6 +27,7 @@
     "chrome-web-store-item-property": "~1.1.2",
     "dot": "~1.0.3",
     "gm": "^1.23.0",
+    "imagemagick-prebuilt": "~1.2.0",
     "json-autosave": "~1.1.1",
     "pdfkit": "~0.8.0",
     "redis": "~2.6.2",
